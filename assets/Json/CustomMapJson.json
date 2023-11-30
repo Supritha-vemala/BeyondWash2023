@@ -1,0 +1,78 @@
+{
+  "AddOnService": [
+    "Basic  Internal Clean",
+    "Fabric Polish",
+    "Vaccume Cleaning"
+  ],
+  "Address": {
+    "address": "#183/1, 3rd Cross, Madhura Nagar, Moodalpalya main road, Bangalore - 560072",
+    "coordinates": {
+      "latitude": 12.9693193,
+      "longitude": 77.525217
+    },
+    "parkingLocation": "Primodial Block",
+    "parkingNumber": "00283B",
+    "type": "Appartment"
+  },
+  "BookingDate": "Sun Oct 08 2023 23:11:33 GMT+0530 (IST)",
+  "CarType": {
+    "VehicleBrand": "Aston Martin",
+    "VehicleImage": [
+      [Object
+      ]
+    ],
+    "VehicleModal": "Astom Martin",
+    "VehicleNumber": "KA02KE7733",
+    "VehicleType": "Sedan"
+  },
+  "Coordinates": {
+    "latitude": 12.9693193,
+    "longitude": 77.525217
+  },
+  "CurrentScheduledDate": {
+    "dateString": "2023-10-10",
+    "day": 10,
+    "month": 10,
+    "timestamp": 1696896000000,
+    "year": 2023
+  },
+  "Frequency": "daily",
+  "FutureScheduledDate": {
+    "dateString": "2023-10-10",
+    "day": 10,
+    "month": 10,
+    "timestamp": 1696896000000,
+    "year": 2023
+  },
+  "OriginalPrice": 10,
+  "Price": 230,
+  "ServiceDates": [
+    {
+      "date": "2023-10-25",
+      "status": "Pending"
+    },
+    {
+      "date": "2023-10-26",
+      "status": "Pending"
+    },
+    {
+      "date": "2023-10-27",
+      "status": "Pending"
+    }
+  ],
+  "StartsFrom": {
+    "dateString": "2023-10-10",
+    "day": 10,
+    "month": 10,
+    "timestamp": 1696896000000,
+    "year": 2023
+  },
+  "Status": "Active",
+  "UserEmail": "shekar6803@gmail.com",
+  "assighedExpert": {
+    "label": "Supritha V",
+    "value": "25lXwaYAuCbN5zd3G88WEpDsNH22"
+  },
+  "id": "gRdXYSmCRcMuky9NiXEB",
+  "latestServiceDate": "2023-10-25"
+}
